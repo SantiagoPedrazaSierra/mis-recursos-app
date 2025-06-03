@@ -1,0 +1,15 @@
+{
+    "_id": {
+      "$oid": "683f2a07cef2c8668e52bb7c"
+    },
+    "nombre_recurso": "Casa de Papel",
+    "genero": "Accion",
+    "plataforma": "Netflix",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": {
+      "$date": "2025-06-03T00:00:00.000Z"
+    },
+    "valoracion": "5 estrellas",
+    "reseña": "Muy buena y entretenida la recomiendo"
+  }
